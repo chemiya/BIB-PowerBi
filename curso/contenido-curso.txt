@@ -1,0 +1,213 @@
+Section 1: Getting Started
+1. READ ME: Important Notes for New Students
+2. Course Introduction
+3. Meet Maven Analytics
+4. Course Structure &amp; Outline
+5. DOWNLOAD: Course Resources
+6. Introducing the Course Project
+7. Setting Expectations
+Section 2: Introducing Microsoft Power BI Desktop
+8. Section Introduction
+9. Meet Power BI Desktop
+10. Downloading Power BI
+11. IMPORTANT: Adjusting Settings
+12. Power BI Desktop Interface &amp; Workflow
+13. Resources &amp; Monthly Updates
+Quiz 1: QUIZ: Introducing Power BI Desktop
+Section 3: Connecting &amp; Shaping Data
+14. Section Introduction
+15. Power BI Front-End vs. Back-End
+16. Types of Data Connectors
+17. The Power Query Editor
+18. Basic Table Transformations
+19. ASSIGNMENT: Table Transformations
+20. SOLUTION: Table Transformations
+21. PRO TIP: Storage &amp; Connection Modes
+22. Connecting to a Database
+23. Extracting Data from the Web
+24. Data QA &amp; Profiling Tools
+25. Text Tools
+26. ASSIGNMENT: Text-Specific Tools
+27. SOLUTION: Text-Specific Tools
+28. Numerical Tools
+29. ASSIGNMENT: Numerical Tools
+30. SOLUTION: Numerical Tools
+31. Date &amp; Time Tools
+32. Change Type with Locale
+33. PRO TIP: Rolling Calendars
+34. ASSIGNMENT: Calendar Tables
+35. SOLUTION: Calendar Tables
+36. Index &amp; Conditional Columns
+37. Calculated Column Best Practices
+38. Grouping &amp; Aggregating
+39. Pivoting &amp; Unpivoting
+40. Merging Queries
+41. Appending Queries
+42. PRO TIP: Appending Files from a Folder
+43. Data Source Settings
+44. PRO TIP: Data Source Parameters
+45. Refreshing Queries
+46. PRO TIP: Importing Excel Models
+47. Power Query Best Practices
+Quiz 2: QUIZ: Connecting &amp; Shaping Data
+Section 4: Creating a Data Model
+48. Section Introduction
+49. Data Modeling 101
+50. Database Normalization
+51. Fact &amp; Dimension Tables
+52. Primary &amp; Foreign Keys
+53. Relationships vs. Merged Tables
+54. Creating Table Relationships
+55. Managing &amp; Editing Relationships
+56. Star &amp; Snowflake Schemas
+57. ASSIGNMENT: Table Relationships
+58. SOLUTION: Table Relationships
+59. PRO TIP: Active &amp; Inactive Relationships
+60. Relationship Cardinality
+61. Connecting Multiple Fact Tables
+62. Filter Context &amp; Filter Flow
+63. Bi-Directional Filters &amp; Ambiguity
+64. Hiding Fields from Report View
+65. ASSIGNMENT: Filter Flow
+66. SOLUTION: Filter Flow
+67. PRO TIP: Model Layouts
+68. Data Formats &amp; Categories
+69. Creating Hierarchies
+70. ASSIGNMENT: Hierarchies
+71. SOLUTION: Hierarchies
+72. Data Model Best Practices
+Quiz 3: QUIZ: Creating a Data Model
+Section 5: Calculated Fields with DAX
+73. Section Introduction
+74. Data Analysis Expressions 101
+75. DAX vs. M Languages
+76. Intro to DAX Calculated Columns
+77. Intro to DAX Measures
+78. Implicit vs. Explicit Measures
+79. Quick Measures
+80. RECAP: Calculated Columns vs. Measures
+81. PRO TIP: Dedicated Measure Tables
+82. Understanding Filter Context
+83. Step-by-Step DAX Measure Calculation
+84. DAX Syntax &amp; Operators
+85. Common DAX Function Categories
+86. Basic Math &amp; Stats Functions
+87. Counting Functions
+88. ASSIGNMENT: Math &amp; Stats Functions
+89. SOLUTION: Math &amp; Stats Functions
+90. Conditional &amp; Logical Functions
+91. The SWITCH Function
+92. ASSIGNMENT: Logical Functions
+93. SOLUTION: Logical Functions
+94. Common Text Functions
+95. ASSIGNMENT: Text Functions
+96. SOLUTION: Text Functions
+97. Basic Date &amp; Time Functions
+98. ASSIGNMENT: Date &amp; Time
+99. SOLUTION: Date &amp; Time
+100. Joining Data with RELATED
+101. The CALCULATE Function
+102. DAX Measure Totals
+103. ASSIGNMENT: CALCULATE
+104. SOLUTION: CALCULATE
+105. The ALL Function
+106. ASSIGNMENT: CALCULATE &amp; ALL
+107. SOLUTION: CALCULATE &amp; ALL
+108. The FILTER Function
+109. Iterator (X) Functions
+110. ASSIGNMENT: Iterators
+111. SOLUTION: Iterators
+112. Time Intelligence Patterns
+113. ASSIGNMENT: Time Intelligence
+114. SOLUTION: Time Intelligence
+115. DAX Best Practices
+Quiz 4: QUIZ: Calculated Fields with DAX
+Section 6: Visualizing Data with Reports
+116. Section Introduction
+117. The 3 Key Questions
+118. Dashboard Design Framework
+119. Sketching the Dashboard Layout
+120. Adding Report Pages &amp; Objects
+121. Naming &amp; Grouping Objects
+122. Cards &amp; Multi-Row Cards
+123. ASSIGNMENT: Cards
+124. SOLUTION: Cards
+125. Building &amp; Formatting Charts
+126. Line Charts
+127. PRO TIP: Trend Lines &amp; Forecasts
+128. ASSIGNMENT: Line Chart &amp; Trend
+129. SOLUTION: Line Chart &amp; Trend
+130. KPI Cards
+131. Bar &amp; Donut Charts
+132. Basic Filtering Options
+133. ASSIGNMENT: Donuts &amp; Filters
+134. SOLUTION: Donuts &amp; Filters
+135. Table &amp; Matrix Visuals
+136. Conditional formatting
+137. Top N Filtering
+138. ASSIGNMENT: Tables
+139. SOLUTION: Tables
+140. Top N Text Cards
+141. ASSIGNMENT: Top N Text Cards
+142. SOLUTION: Top N Text Cards
+143. Map Visuals
+144. Report Slicers
+145. ASSIGNMENT: Slicers
+146. SOLUTION: Slicers
+147. PRO TIP: HASONEVALUE
+148. Gauge Charts
+149. PRO TIP: Advanced Conditional Formatting
+150. Area Charts
+151. Drill Up &amp; Drill Down
+152. ASSIGNMENT: Drill Up &amp; Drill Down
+153. SOLUTION: Drill Up &amp; Drill Down
+154. Drillthrough Filters
+155. Editing Report Interactions
+156. ASSIGNMENT: Report Interactions
+157. SOLUTION: Report Interactions
+158. Adding Bookmarks
+159. ASSIGNMENT: Bookmarks
+160. SOLUTION: Bookmarks
+161. PRO TIP: Custom Navigation Buttons
+162. PRO TIP: Slicer Panels
+163. Numeric Range Parameters
+164. Fields Parameters
+165. ASSIGNMENT: Fields Parameters
+166. SOLUTION: Fields Parameters
+167. PRO TIP: Custom Tool Tips
+168. Importing Custom Visuals
+169. Managing &amp; Viewing Roles
+170. Mobile Layouts
+171. PREVIEW: Publishing to Power BI Service
+172. Data Visualization Best Practices
+Quiz 5: QUIZ: Visualizing Data with Reports
+Section 7: Artificial Intelligence (AI)
+173. Section Introduction
+174. Anomaly Detection
+175. Smart Narratives
+176. Q&amp;A Visuals
+177. Decomposition Trees
+178. Key Influencers
+Section 8: Power BI Optimization Tools
+179. Section Introduction
+180. The Optimize Ribbon
+181. Pausing Visuals
+182. Optimization Presets
+183. Applying All Slicers
+184. Performance Analyzer
+185. External Tools
+Section 9: New Power BI Features &amp; Updates
+186. About this Section
+187. Calculation Groups (October 2023)
+188. New Card Visual (June/November 2023)
+189. DAX Query View (November 2023)
+190. Button Slicer (November 2023)
+191. Visual Calculations (February 2024)
+Section 10: BONUS PROJECT: Maven Market
+192. Introduction
+193. PART 1: Connecting &amp; Shaping the Data
+194. PART 2: Creating the Data Model
+195. PART 3: Adding DAX Measures
+196. PART 4: Building the Report
+Section 11: BONUS LESSON
+197. BONUS LESSON
